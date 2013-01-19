@@ -1,4 +1,4 @@
 sample_app
 ==========
 
-Aplicacion Ruby on Rails Sample
+Aplicacion Ruby on Rails Sample by Seba
